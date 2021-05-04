@@ -1,4 +1,4 @@
-# bash-switch-php
+# bash: switch-php
 A commandline utility to aid developers switching php versions easily which are used in console and apache2
 
 install the switch_php file in ~/bin
